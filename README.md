@@ -1,5 +1,7 @@
 **Crop-Yield Prediction
+
 Project Overview**
+
 This project aims to predict crop yields based on various factors such as rainfall, pesticide usage, temperature, and area. The dataset includes features like the year, average rainfall, pesticide usage, average temperature, area, crop type, and yield per hectare.
 
 **Dataset**
@@ -54,8 +56,11 @@ Tested the selected model on new data points and obtained accurate predictions, 
 The model evaluation results for different algorithms were as follows:
 
 **Linear Regression**: MAE = 29907.53512614917, R² Score = 0.7473117803683427
+
 **Lasso Regression**: MAE = 29893.99762450549, R² Score = 0.7473261756207235
+
 **Ridge Regression**: MAE = 29864.88375663324, R² Score = 0.7473044447803092
+
 **Decision Tree Regressor**: MAE = 3817.598419124735, R² Score = 0.9808630051556833
 
 **The Decision Tree Regressor was selected as the final model due to its best performance.**
