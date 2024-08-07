@@ -1,6 +1,6 @@
-**Crop-Yield Prediction
+**Crop-Yield Prediction**
 
-Project Overview**
+**Project Overview**
 
 This project aims to predict crop yields based on various factors such as rainfall, pesticide usage, temperature, and area. The dataset includes features like the year, average rainfall, pesticide usage, average temperature, area, crop type, and yield per hectare.
 
